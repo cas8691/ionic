@@ -1,0 +1,7 @@
+{
+  "name": "projetoSigaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
